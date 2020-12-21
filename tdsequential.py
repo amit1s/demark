@@ -1,3 +1,5 @@
+// Pine Language - tradingview.com
+
 //@version=3
 study(title="TD Sequential", shorttitle="TD Seq", overlay=true)
 
